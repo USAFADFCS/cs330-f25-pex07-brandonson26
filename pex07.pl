@@ -3,7 +3,8 @@
 %
 % name: Brandon Son
 %
-% Documentation: 
+% Documentation: I used the provided HW07_PROLOG to help with structure and reasoning through a problem. 
+% No other outside resources used on this assignment.
 %
 
 % The query to get the answer(s) or that there is no answer
